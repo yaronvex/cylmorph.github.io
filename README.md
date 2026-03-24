@@ -1,6 +1,6 @@
 # From Cylinders to Complex Shapes: Nematic Multi-Stable Shape-Morphing Cylindrical Actuators
 
-This is the repository that contains source code for the [paper website](https://cylmorph.github.io).
+This is the repository that contains source code for the [paper website](https://yaronvex.github.io/cylmorph.github.io/).
 
 If you find the paper useful for your work please cite:
 ```
